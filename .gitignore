@@ -44,3 +44,6 @@ npm-debug.log
 .sass-cache/
 
 
+/.settings/
+/.buildpath
+/.project
